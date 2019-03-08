@@ -3,5 +3,5 @@
 int main(){
     int a, b;
     scanf("%d%d", &a, &b);
-    printf("%0.5f", (a + b) /2.0);
+    printf("%0.5f", a + b /2.0);
 }
