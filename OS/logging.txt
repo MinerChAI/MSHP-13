@@ -1,0 +1,253 @@
+Start 
+1) 
+6.1 
+OK 
+2) 
+L 
+OK 
+3) 
+HOMEPATH 
+OK 
+4) 
+253 
+OK 
+5) 
+0 
+OK 
+6) 
+4 
+OK 
+7) 
+. 
+WA, correct is 4 
+Start 
+1) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is 6.1 
+2) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is L 
+3) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is HOMEPATH 
+4) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is 253 
+5) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is 0 
+6) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is 4 
+7) 
+. 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is 4 
+8) 
+%var% 
+OK 
+WA, correct is echo %var% 
+9) 
+@ 
+OK 
+10) 
+L 
+OK 
+3) 
+Start 
+1) 
+6.1 
+OK 
+2) 
+L 
+OK 
+3) 
+HOMEPATH 
+OK 
+4) 
+253 
+OK 
+5) 
+0 
+OK 
+6) 
+4 
+OK 
+7) 
+. 
+OK 
+8) 
+echo %var% 
+Start 
+1) 
+6.1 
+OK 
+2) 
+L 
+OK 
+3) 
+HOMEPATH 
+OK 
+4) 
+253 
+OK 
+5) 
+0 
+OK 
+6) 
+4 
+OK 
+7) 
+. 
+OK 
+8) 
+Start 
+1) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is 6.1 
+Start 
+1) 
+6.1 
+OK 
+2) 
+6.1 
+WA, correct is L 
+3) 
+6.1 
+WA, correct is HOMEPATH 
+4) 
+6.1 
+WA, correct is 253 
+5) 
+6.1 
+WA, correct is 0 
+6) 
+6.1 
+WA, correct is 4 
+7) 
+6.1 
+OK 
+8) 
+F:\MSHP\OS\temp2\temp1 
+OK 
+WA, correct is echo %var% 
+9) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is @ 
+10) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is bat 
+Start 
+1) 
+6.1 
+OK 
+2) 
+L 
+OK 
+3) 
+HOMEPATH 
+OK 
+4) 
+253 
+OK 
+5) 
+0 
+OK 
+6) 
+4 
+OK 
+7) 
+. 
+OK 
+8) 
+%var% 
+OK 
+9) 
+@ 
+OK 
+10) 
+bat 
+OK 
+Start 
+1) 
+ECHO is off.
+WA, correct is 6.1 
+2) 
+L 
+OK 
+3) 
+HOMEDIR 
+WA, correct is HOMEPATH 
+4) 
+253 
+OK 
+5) 
+1 
+WA, correct is 0 
+6) 
+4 
+OK 
+7) 
+4 
+OK 
+8) 
+ECHO is off.
+WA, correct is %var% 
+9) 
+@ 
+OK 
+10) 
+BAT 
+WA, correct is bat 
+Start 
+1) 
+ECHO is off.
+WA, correct is 6.1 
+2) 
+ECHO is off.
+WA, correct is L 
+3) 
+ECHO is off.
+WA, correct is HOMEPATH 
+4) 
+ECHO is off.
+WA, correct is 253 
+5) 
+ECHO is off.
+WA, correct is 0 
+6) 
+ECHO is off.
+WA, correct is 4 
+7) 
+ECHO is off.
+OK 
+8) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is %var% 
+9) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is @ 
+10) 
+F:\MSHP\OS\temp2\temp1 
+WA, correct is bat 
+Start 
+1) 
+L 
+WA, correct is 6.1 
+2) 
+L 
+OK 
+3) 
+HOMEPATH 
+OK 
+Start 
+1) 
+6.1 
+OK 
+2) 
+L 
+OK 
+3) 
+HOMEPATH 
+OK 
+4) 
