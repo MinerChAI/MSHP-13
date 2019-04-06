@@ -3,7 +3,7 @@
 
 using namespace std;
 
-bool is_point_in_circle(double x, double y, double xc, double yc, double r);
+bool is_point_in_circle(double x=0, double y=0, double xc=0, double yc=0, double r=1);
 
 int main() {
     double x, y, xc, yc, r;
