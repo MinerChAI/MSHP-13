@@ -10,7 +10,7 @@ int main(){
     scanf("%d%d", &x, &k);
     int* b = array_insert(a, n, x, k);
     delete [] a;
-    for (int i = 0; i <= n; ++i) printf("%d ", b + i);
+    for (int i = 0; i <= n; ++i) printf("%d ", b[i]);
     delete [] b;
 }
 
