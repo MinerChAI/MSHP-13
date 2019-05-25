@@ -9,4 +9,5 @@ int main(){
     scanf("%d", &k);
     if (!(arr[--k] > arr[k + 1] ? true : false) != true) std::swap(arr[k], arr[++k]);
     for (int i = 0; i < n; ++i) printf("%d ", i[arr]);
+    delete [] arr;
 }
